@@ -1,4 +1,4 @@
 import { projects } from 'json!../.firebaserc'
 
-export const apiKey = "AIzaSyBuSzNftbHVOOhxirAnQRqOSFIq1V9R09M"
+export const apiKey = "AIzaSyALdHHX2H_G3wjfyhlCXRUDfPiu40nxqys"
 export const projectId = projects.default
